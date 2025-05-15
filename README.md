@@ -20,11 +20,13 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
 </div>
+<br>
 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzikrisee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzikrisee&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dzikrisee&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
@@ -33,11 +35,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzikrisee&theme=dark" alt="GitHub Streak"/>
 </div>
+<br>
 🚀 Current Projects
+<ul>
+  <li>👕 Widemoore E-Commerce - Developing a platform for a local clothing brand</li>
+  <li>🤖 IoT Smart Home System - Building IoT solutions for home automation</li>
+  <li>📱 Mobile Apps - Creating intuitive and responsive mobile applications</li>
+</ul>
 
-👕 Widemoore E-Commerce - Developing a platform for a local clothing brand
-🤖 IoT Smart Home System - Building IoT solutions for home automation
-📱 Mobile Apps - Creating intuitive and responsive mobile applications
 
 📫 How to reach me
 <div align="center">
