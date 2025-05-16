@@ -25,8 +25,8 @@
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="margin: 10px;" />
-  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" style="margin: 10px;" />
-  <img width="60" src="https://www.linux.org/images/logo.png" alt="Linux" style="margin: 10px;" />
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" style="margin: 10px;" />
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png" alt="Linux" style="margin: 10px;" />
   <img width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" style="margin: 10px;" />
   <img width="60" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" style="margin: 10px;" />
   <img width="60" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js" style="margin: 10px;" />
