@@ -23,7 +23,7 @@
   <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
   <img width="60" src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Studio" style="margin: 10px;" />
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
-  <img width="60" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="HTML" style="margin: 10px;" />
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" style="margin: 10px;" />
   <img width="60" src="https://www.linux.org/images/logo.png" alt="Linux" style="margin: 10px;" />
