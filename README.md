@@ -11,28 +11,26 @@
 🚁 When not coding, you'll find me flying FPV drones!
 
 🛠️ Tech Stack
-<div align="center">
-  <p align="center">
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS"/>
-    <img width="50" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-    <img width="50" src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f4dd.svg" alt="Notion"/>
-  </p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img width="60" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" style="margin: 10px;" />
+  <img width="60" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" style="margin: 10px;" />
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="margin: 10px;" />
+  <img width="60" src="https://vuejs.org/images/logo.png" alt="Vue.js" style="margin: 10px;" />
+  <img width="60" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" style="margin: 10px;" />
+  <img width="60" src="https://tailwindcss.com/favicons/apple-touch-icon.png" alt="Tailwind CSS" style="margin: 10px;" />
+  <img width="60" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" style="margin: 10px;" />
+  <img width="60" src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" alt="Arduino" style="margin: 10px;" />
+  <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
+  <img width="60" src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Studio" style="margin: 10px;" />
+  <img width="60" src="https://www.figma.com/favicon.ico" alt="Figma" style="margin: 10px;" />
+  <img width="60" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="HTML" style="margin: 10px;" />
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="margin: 10px;" />
+  <img width="60" src="https://www.w3.org/Style/CSS/Overview.img/css3.svg" alt="CSS" style="margin: 10px;" />
+  <img width="60" src="https://www.linux.org/images/logo.png" alt="Linux" style="margin: 10px;" />
+  <img width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" style="margin: 10px;" />
+  <img width="60" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" style="margin: 10px;" />
+  <img width="60" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js" style="margin: 10px;" />
+  <img width="60" src="https://www.notion.so/cdn-cgi/image/format=auto,width=1920,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="Notion" style="margin: 10px;" />
 </div>
 <br>
 📊 GitHub Stats
